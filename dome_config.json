@@ -1,0 +1,5 @@
+[
+{"id": 0,"name": "Action","pincfg": {"pin": 15,"pinfct": "OUTP","initval": 0},"canwrite": true,"min": 0,"max": 1,"step": 1,"swfct": "MiPyPin","descr": "Relay activation pin"},
+{"id": 1,"name": "Open","pincfg": {"pin": 16,"pinfct": "INP","pull": "PULL_DOWN"},"canwrite": false,"min": 0,"max": 1,"step": 1,"swfct": "MiPyPin","descr": "Open endstop"},
+{"id": 2,"name": "Closed","pincfg": {"pin": 17,"pinfct": "INP","pull": "PULL_DOWN"},"canwrite": false,"min": 0,"max": 1,"step": 1,"swfct": "MiPyPin","descr": "Closed endstop"},
+]
